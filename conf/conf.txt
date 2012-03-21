@@ -1,0 +1,40 @@
+#conf file for logrec
+#val_dict_file		 =	newVocal.txt			# visual vocabulary file
+
+#global conf
+conf_file_path		 		=		/home/beyond_boy/logorec/LogRec/conf/
+visual_dict_file	 		=		visual_vocabulary.txt		# visual vocabulary file
+dataset_path		 	 		=		/home/beyond_boy/logorec/FlickrLogos/classes/
+
+#train
+train_file_path		 		=	
+train_list		 		 		=		tr.txt #trainingset.txt  		# training file list
+
+#validate
+validate_file_path 		= 
+validate_list		 			=
+
+#query
+query_file_path		 		=
+query_list		 				=		qset.txt#testset.txt				#for validatation and testing!
+test_file_list		 		=
+
+#model
+mode_file_path		 		= 	/home/beyond_boy/logorec/LogRec/model/
+model_file_list		 		=
+model_list		 				=		model_list.txt #ll.txt          #lg.txt 	#each model per logo class
+model_edge_index	 		=
+mode_tri_index		 		=
+
+#log
+log_file_path		 			=
+log_file_type		 			= 	1  #1 means global ,0 means local
+
+#the following is for the denaulay-based 
+delau_src_model		=	model.txt
+delau_dst_model		=	dmodel.txt
+delaunay_path			=	D:/1220/LogoRecSys/
+delau_dset_path		=	D:/1220/LogoRecSys/trainset/train/
+delau_dict_file		=	val4000.txt
+delau_train_list	=       flickr_logos_27_dataset_training_set_annotation.txt
+delau_test_list		=  	flickr_logos_27_dataset_query_set_annotation.txt

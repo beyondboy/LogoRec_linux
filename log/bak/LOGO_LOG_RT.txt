@@ -1,0 +1,389 @@
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-19 03:56:07 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-19 03:57:58 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-19 04:18:59 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 01:42:49 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/HP/4834606338.jpg's KEYPOINTS SIZE:6744
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 01:42:53 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/HP/4834606338.jpg's DESCRIPTOR SIZE:6744
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 01:43:28 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/HP/4859123030.jpg's KEYPOINTS SIZE:5658
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 01:43:32 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/HP/4859123030.jpg's DESCRIPTOR SIZE:5659
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 01:45:55 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 01:47:08 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 01:54:19 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/adidas/3025823456.jpg's KEYPOINTS SIZE:10811
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 01:54:24 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/adidas/3025823456.jpg's DESCRIPTOR SIZE:10810
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 01:57:05 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 01:57:58 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 02:07:01 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 02:15:30 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 02:17:54 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 02:20:47 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/carlsberg/3228331417.jpg's KEYPOINTS SIZE:5188
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 02:20:51 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/carlsberg/3228331417.jpg's DESCRIPTOR SIZE:5188
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 02:27:19 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 02:33:14 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 02:36:37 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 02:42:30 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 02:50:11 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/corona/320927855.jpg's KEYPOINTS SIZE:5420
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 02:50:14 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/corona/320927855.jpg's DESCRIPTOR SIZE:5420
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 03:01:22 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/erdinger/4129400780.jpg's KEYPOINTS SIZE:5904
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 03:01:26 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/erdinger/4129400780.jpg's DESCRIPTOR SIZE:5904
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:08:58 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:10:27 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:11:47 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:15:51 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:21:22 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:28:10 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:29:05 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:29:53 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:30:40 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:32:16 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 03:51:07 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 03:52:07 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/heineken/279995280.jpg's KEYPOINTS SIZE:10118
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 03:52:13 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/heineken/279995280.jpg's DESCRIPTOR SIZE:10118
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:10:07 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:14:41 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:17:26 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:18:50 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:22:24 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:31:38 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:44:57 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:46:08 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:49:07 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:50:00 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:50:47 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:51:35 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:52:27 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:53:57 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:54:45 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 04:55:33 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 05:05:32 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/starbucks/2176382424.jpg's KEYPOINTS SIZE:5405
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 05:05:35 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/starbucks/2176382424.jpg's DESCRIPTOR SIZE:5405
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 05:11:49 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 05:21:51 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/tsingtao/222907513.jpg's KEYPOINTS SIZE:5160
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 846 2012-03-18 05:21:55 [Info]
+PIC:/home/beyond_boy/logorec/FlickrLogos/classes/tsingtao/222907513.jpg's DESCRIPTOR SIZE:5160
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 05:30:36 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 05:39:41 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+======================Log Begin===================
+/home/beyond_boy/logorec/LogRec/src/Logo_Core.cpp 436 2012-03-18 05:41:54 [Info]
+==EDGE SIZE LARGE THAN 50000000==
+======================Log End=====================
+
+[Info] [res] HP:2300160406.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=1|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:2475751528.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=2|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=14|fosters=0|google=6|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:2492120693.jpg HP=12|adidas=280|aldi=0|apple=0|becks=0|bmw=99|carlsberg=0|chimay=5|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=399|ferrari=0|ford=9|fosters=2|google=156|guiness=266|heineken=0|milka=0|nvidia=66|paulaner=12|pepsi=48|rittersport=0|shell=49|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=3|ups=15|
+[Info] [res] HP:252027220.jpg HP=0|adidas=61|aldi=0|apple=0|becks=0|bmw=100|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=187|ferrari=0|ford=2|fosters=0|google=141|guiness=24|heineken=0|milka=0|nvidia=20|paulaner=4|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=24|
+[Info] [res] HP:2574277331.jpg HP=0|adidas=32|aldi=0|apple=0|becks=0|bmw=12|carlsberg=0|chimay=3|cocacola=0|corona=0|dhl=0|erdinger=0|esso=2|fedex=307|ferrari=0|ford=1|fosters=0|google=60|guiness=29|heineken=0|milka=0|nvidia=46|paulaner=0|pepsi=5|rittersport=0|shell=15|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=3|
+[Info] [res] HP:2574277437.jpg HP=24|adidas=112|aldi=0|apple=0|becks=0|bmw=38|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=473|ferrari=0|ford=0|fosters=0|google=180|guiness=114|heineken=0|milka=0|nvidia=44|paulaner=0|pepsi=3|rittersport=0|shell=102|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=48|
+[Info] [res] HP:2575100582.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=6|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=19|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=1|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:3181242302.jpg HP=3|adidas=0|aldi=0|apple=0|becks=0|bmw=4|carlsberg=0|chimay=1|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=26|ferrari=0|ford=20|fosters=0|google=2|guiness=2|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=1|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:3181242484.jpg HP=12|adidas=310|aldi=0|apple=1|becks=0|bmw=83|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=6|esso=0|fedex=936|ferrari=0|ford=10|fosters=0|google=313|guiness=64|heineken=0|milka=0|nvidia=109|paulaner=0|pepsi=8|rittersport=3|shell=52|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=18|
+[Info] [res] HP:33971473.jpg HP=3|adidas=245|aldi=0|apple=0|becks=0|bmw=66|carlsberg=0|chimay=3|cocacola=0|corona=0|dhl=0|erdinger=1|esso=0|fedex=576|ferrari=0|ford=5|fosters=0|google=261|guiness=87|heineken=0|milka=0|nvidia=14|paulaner=0|pepsi=15|rittersport=10|shell=28|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=10|
+[Info] [res] HP:386819032.jpg HP=0|adidas=2|aldi=0|apple=0|becks=0|bmw=1|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=12|ferrari=0|ford=0|fosters=0|google=15|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=26|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:436151791.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=1|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=9|fosters=0|google=0|guiness=0|heineken=0|milka=6|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:476050004.jpg HP=0|adidas=1|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=1|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:4769488468.jpg HP=0|adidas=26|aldi=0|apple=0|becks=0|bmw=1|carlsberg=0|chimay=1|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=50|ferrari=0|ford=13|fosters=0|google=17|guiness=5|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:480002660.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=1|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:4833990883.jpg HP=3|adidas=17|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=42|ferrari=0|ford=1|fosters=0|google=37|guiness=13|heineken=0|milka=0|nvidia=15|paulaner=2|pepsi=0|rittersport=0|shell=8|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=14|
+[Info] [res] HP:49218246.jpg HP=0|adidas=22|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=3|cocacola=0|corona=0|dhl=0|erdinger=3|esso=8|fedex=45|ferrari=0|ford=6|fosters=0|google=65|guiness=31|heineken=0|milka=0|nvidia=19|paulaner=2|pepsi=9|rittersport=1|shell=64|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=1|ups=0|
+[Info] [res] HP:4950075187.jpg HP=0|adidas=17|aldi=0|apple=0|becks=0|bmw=27|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=42|ferrari=0|ford=0|fosters=0|google=11|guiness=0|heineken=0|milka=0|nvidia=1|paulaner=0|pepsi=2|rittersport=0|shell=2|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:4971914511.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=2|paulaner=0|pepsi=2|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:5008965281.jpg HP=0|adidas=68|aldi=0|apple=0|becks=0|bmw=26|carlsberg=0|chimay=1|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=278|ferrari=0|ford=6|fosters=0|google=86|guiness=59|heineken=0|milka=1|nvidia=16|paulaner=0|pepsi=22|rittersport=6|shell=15|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=4|ups=6|
+[Info] [res] HP:5073246539.jpg HP=37|adidas=283|aldi=0|apple=5|becks=0|bmw=11|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=1298|ferrari=0|ford=1|fosters=0|google=269|guiness=127|heineken=0|milka=0|nvidia=16|paulaner=8|pepsi=0|rittersport=3|shell=111|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=25|ups=2|
+[Info] [res] HP:5077581837.jpg HP=15|adidas=60|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=2|cocacola=0|corona=0|dhl=0|erdinger=0|esso=5|fedex=432|ferrari=0|ford=1|fosters=0|google=123|guiness=19|heineken=0|milka=0|nvidia=0|paulaner=12|pepsi=2|rittersport=0|shell=17|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=2|ups=34|
+[Info] [res] HP:69614005.jpg HP=0|adidas=6|aldi=0|apple=0|becks=0|bmw=2|carlsberg=0|chimay=70|cocacola=0|corona=0|dhl=0|erdinger=2|esso=0|fedex=111|ferrari=0|ford=2|fosters=0|google=98|guiness=14|heineken=0|milka=0|nvidia=2|paulaner=0|pepsi=5|rittersport=2|shell=19|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:70609284.jpg HP=69|adidas=284|aldi=0|apple=0|becks=0|bmw=27|carlsberg=0|chimay=1|cocacola=0|corona=0|dhl=0|erdinger=0|esso=13|fedex=1278|ferrari=0|ford=9|fosters=3|google=301|guiness=200|heineken=0|milka=0|nvidia=213|paulaner=0|pepsi=79|rittersport=0|shell=122|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=11|ups=83|
+[Info] [res] HP:77530257.jpg HP=60|adidas=1262|aldi=0|apple=0|becks=0|bmw=292|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=5|esso=0|fedex=2576|ferrari=0|ford=1|fosters=0|google=447|guiness=476|heineken=0|milka=0|nvidia=191|paulaner=8|pepsi=11|rittersport=0|shell=131|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=81|
+[Info] [res] HP:78324863.jpg HP=24|adidas=301|aldi=0|apple=0|becks=0|bmw=60|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=22|esso=5|fedex=1325|ferrari=0|ford=26|fosters=0|google=453|guiness=394|heineken=0|milka=0|nvidia=386|paulaner=8|pepsi=54|rittersport=0|shell=215|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=12|ups=81|
+[Info] [res] HP:81062112.jpg HP=0|adidas=10|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=3|guiness=0|heineken=0|milka=0|nvidia=7|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=3|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] HP:85899611.jpg HP=2|adidas=38|aldi=0|apple=0|becks=0|bmw=27|carlsberg=0|chimay=5|cocacola=0|corona=0|dhl=0|erdinger=3|esso=0|fedex=192|ferrari=0|ford=0|fosters=0|google=151|guiness=38|heineken=0|milka=0|nvidia=17|paulaner=0|pepsi=21|rittersport=10|shell=12|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=4|
+[Info] [res] HP:925473698.jpg HP=0|adidas=0|aldi=0|apple=1|becks=5|bmw=27|carlsberg=0|chimay=13|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=59|fosters=2|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=1|ups=0|
+[Info] [res] HP:94577457.jpg HP=0|adidas=2|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=23|ferrari=0|ford=0|fosters=0|google=2|guiness=2|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=2|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:145074777.jpg HP=0|adidas=5|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=3|fedex=16|ferrari=0|ford=0|fosters=0|google=14|guiness=18|heineken=0|milka=0|nvidia=2|paulaner=0|pepsi=1|rittersport=0|shell=2|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:1468736300.jpg HP=0|adidas=1|aldi=0|apple=0|becks=0|bmw=54|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=142|ferrari=0|ford=0|fosters=0|google=132|guiness=28|heineken=0|milka=0|nvidia=131|paulaner=0|pepsi=0|rittersport=0|shell=8|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=12|
+[Info] [res] adidas:2450743885.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:2534155497.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=2|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=1|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:2540056504.jpg HP=0|adidas=52|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=4|fedex=89|ferrari=0|ford=0|fosters=0|google=19|guiness=39|heineken=0|milka=1|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=11|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=34|
+[Info] [res] adidas:2636557914.jpg HP=0|adidas=6|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=16|ferrari=0|ford=0|fosters=0|google=11|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=3|rittersport=0|shell=17|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=2|
+[Info] [res] adidas:276515560.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=18|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=3|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:2970796187.jpg HP=0|adidas=74|aldi=0|apple=0|becks=0|bmw=2|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=232|ferrari=0|ford=2|fosters=0|google=125|guiness=20|heineken=0|milka=0|nvidia=128|paulaner=0|pepsi=2|rittersport=0|shell=36|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:3294282629.jpg HP=18|adidas=692|aldi=0|apple=0|becks=0|bmw=226|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=10|fedex=948|ferrari=0|ford=0|fosters=0|google=728|guiness=2|heineken=0|milka=0|nvidia=1|paulaner=0|pepsi=9|rittersport=0|shell=64|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=4|ups=9|
+[Info] [res] adidas:3385248586.jpg HP=8|adidas=48|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=89|ferrari=0|ford=0|fosters=0|google=25|guiness=6|heineken=0|milka=0|nvidia=9|paulaner=0|pepsi=0|rittersport=0|shell=4|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:3426961300.jpg HP=0|adidas=1|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:3438303866.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=2|ferrari=0|ford=0|fosters=0|google=0|guiness=24|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:3441398196.jpg HP=70|adidas=585|aldi=0|apple=0|becks=0|bmw=38|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=2|fedex=3824|ferrari=0|ford=0|fosters=0|google=627|guiness=324|heineken=0|milka=0|nvidia=2|paulaner=3|pepsi=14|rittersport=0|shell=112|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=6|
+[Info] [res] adidas:3541292073.jpg HP=0|adidas=665|aldi=0|apple=0|becks=98|bmw=18|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=292|ferrari=0|ford=467|fosters=1|google=3|guiness=42|heineken=0|milka=0|nvidia=67|paulaner=0|pepsi=5|rittersport=0|shell=7|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=20|
+[Info] [res] adidas:3703822708.jpg HP=15|adidas=41|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=3|esso=0|fedex=956|ferrari=0|ford=0|fosters=0|google=56|guiness=378|heineken=0|milka=0|nvidia=726|paulaner=0|pepsi=96|rittersport=0|shell=1264|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=1|
+[Info] [res] adidas:3807811747.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:3948482004.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=2|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=20|ferrari=0|ford=47|fosters=0|google=6|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=133|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:4061674634.jpg HP=3|adidas=25|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=68|ferrari=0|ford=0|fosters=0|google=38|guiness=11|heineken=0|milka=0|nvidia=2|paulaner=1|pepsi=5|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=1|
+[Info] [res] adidas:4359633049.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=1|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=4|ferrari=0|ford=0|fosters=0|google=5|guiness=0|heineken=0|milka=0|nvidia=3|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:4406847336.jpg HP=0|adidas=50|aldi=0|apple=0|becks=0|bmw=15|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=6|esso=2|fedex=123|ferrari=0|ford=15|fosters=0|google=83|guiness=24|heineken=0|milka=2|nvidia=0|paulaner=0|pepsi=1|rittersport=0|shell=5|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=5|
+[Info] [res] adidas:4425073529.jpg HP=0|adidas=1|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=14|fosters=0|google=2|guiness=2|heineken=0|milka=0|nvidia=3|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:4499338915.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=1|esso=2|fedex=0|ferrari=0|ford=7|fosters=0|google=2|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=2|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:451265524.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=1|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:4605630935.jpg HP=48|adidas=3|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=3|cocacola=0|corona=0|dhl=0|erdinger=6|esso=0|fedex=35|ferrari=0|ford=1|fosters=0|google=17|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=23|singha=0|starbucks=0|stellaartois=0|texaco=11|tsingtao=0|ups=0|
+[Info] [res] adidas:4745120286.jpg HP=0|adidas=32|aldi=0|apple=0|becks=0|bmw=10|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=154|ferrari=0|ford=0|fosters=0|google=19|guiness=13|heineken=0|milka=0|nvidia=2|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:4761260517.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=0|ferrari=0|ford=0|fosters=0|google=0|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:4763207899.jpg HP=0|adidas=425|aldi=0|apple=0|becks=0|bmw=111|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=2|esso=11|fedex=1162|ferrari=0|ford=12|fosters=0|google=523|guiness=324|heineken=0|milka=0|nvidia=197|paulaner=11|pepsi=43|rittersport=0|shell=98|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=13|
+[Info] [res] adidas:4763210295.jpg HP=954|adidas=11795|aldi=0|apple=0|becks=0|bmw=5792|carlsberg=0|chimay=0|cocacola=2|corona=0|dhl=0|erdinger=47|esso=8|fedex=95943|ferrari=0|ford=2|fosters=0|google=13958|guiness=10300|heineken=0|milka=0|nvidia=1605|paulaner=17|pepsi=1287|rittersport=2|shell=1197|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=48|ups=462|
+[Info] [res] adidas:4955394412.jpg HP=0|adidas=6|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=2|cocacola=2|corona=0|dhl=0|erdinger=0|esso=0|fedex=25|ferrari=0|ford=2|fosters=0|google=10|guiness=6|heineken=0|milka=0|nvidia=2|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] adidas:79242964.jpg HP=3|adidas=1536|aldi=0|apple=0|becks=0|bmw=230|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=123|esso=0|fedex=4552|ferrari=0|ford=0|fosters=0|google=424|guiness=1438|heineken=0|milka=0|nvidia=197|paulaner=0|pepsi=231|rittersport=0|shell=346|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=187|
+[Info] [res] aldi:1141654454.jpg HP=392|adidas=3750|aldi=0|apple=10|becks=1|bmw=343|carlsberg=0|chimay=2|cocacola=0|corona=0|dhl=0|erdinger=92|esso=118|fedex=20961|ferrari=0|ford=1|fosters=0|google=3110|guiness=3837|heineken=0|milka=0|nvidia=995|paulaner=36|pepsi=474|rittersport=2|shell=1147|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=4|ups=213|
+[Info] [res] aldi:1168898605.jpg HP=1|adidas=7|aldi=0|apple=0|becks=0|bmw=1|carlsberg=0|chimay=1|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=82|ferrari=0|ford=4|fosters=0|google=4|guiness=0|heineken=0|milka=0|nvidia=1|paulaner=0|pepsi=0|rittersport=0|shell=5|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] aldi:135172631.jpg HP=0|adidas=0|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=1|ferrari=0|ford=27|fosters=0|google=7|guiness=0|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=0|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=4|ups=0|
+[Info] [res] aldi:1447353921.jpg HP=36|adidas=10|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=17|ferrari=0|ford=0|fosters=0|google=53|guiness=25|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=20|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=3|
+[Info] [res] aldi:1682591746.jpg HP=0|adidas=19|aldi=0|apple=0|becks=0|bmw=7|carlsberg=0|chimay=4|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=50|ferrari=0|ford=8|fosters=0|google=5|guiness=3|heineken=0|milka=0|nvidia=8|paulaner=0|pepsi=0|rittersport=0|shell=2|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] aldi:168481399.jpg HP=6|adidas=2|aldi=0|apple=0|becks=0|bmw=0|carlsberg=0|chimay=58|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=99|ferrari=0|ford=13|fosters=0|google=153|guiness=10|heineken=0|milka=0|nvidia=6|paulaner=0|pepsi=0|rittersport=0|shell=6|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=4|
+[Info] [res] aldi:1855061196.jpg HP=42|adidas=49|aldi=0|apple=0|becks=0|bmw=14|carlsberg=0|chimay=1|cocacola=0|corona=0|dhl=0|erdinger=0|esso=6|fedex=42|ferrari=0|ford=4|fosters=0|google=9|guiness=29|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=78|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] aldi:192325467.jpg HP=15|adidas=12|aldi=0|apple=0|becks=0|bmw=27|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=74|ferrari=0|ford=1|fosters=0|google=10|guiness=26|heineken=0|milka=0|nvidia=4|paulaner=0|pepsi=0|rittersport=0|shell=7|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] aldi:2105646918.jpg HP=0|adidas=8|aldi=0|apple=0|becks=0|bmw=4|carlsberg=0|chimay=8|cocacola=0|corona=0|dhl=0|erdinger=2|esso=0|fedex=54|ferrari=0|ford=44|fosters=5|google=15|guiness=3|heineken=0|milka=0|nvidia=4|paulaner=0|pepsi=2|rittersport=3|shell=6|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] aldi:2135291837.jpg HP=0|adidas=109|aldi=0|apple=0|becks=3|bmw=1|carlsberg=0|chimay=0|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=41|ferrari=0|ford=6|fosters=0|google=58|guiness=4|heineken=0|milka=0|nvidia=0|paulaner=0|pepsi=0|rittersport=0|shell=1|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=0|
+[Info] [res] aldi:2141513948.jpg HP=8|adidas=41|aldi=0|apple=3|becks=2|bmw=11|carlsberg=1|chimay=47|cocacola=0|corona=0|dhl=0|erdinger=0|esso=0|fedex=224|ferrari=1|ford=57|fosters=21|google=34|guiness=22|heineken=0|milka=0|nvidia=22|paulaner=0|pepsi=3|rittersport=0|shell=39|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=2|
+[Info] [res] aldi:2141513958.jpg HP=43|adidas=852|aldi=0|apple=0|becks=0|bmw=103|carlsberg=0|chimay=9|cocacola=0|corona=0|dhl=0|erdinger=8|esso=31|fedex=5144|ferrari=0|ford=5|fosters=0|google=3178|guiness=766|heineken=0|milka=0|nvidia=145|paulaner=4|pepsi=72|rittersport=16|shell=226|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=7|ups=133|
+[Info] [res] aldi:2159375407.jpg HP=0|adidas=56|aldi=0|apple=0|becks=0|bmw=26|carlsberg=0|chimay=2|cocacola=0|corona=0|dhl=0|erdinger=1|esso=0|fedex=279|ferrari=0|ford=0|fosters=0|google=186|guiness=51|heineken=0|milka=0|nvidia=1|paulaner=0|pepsi=14|rittersport=0|shell=14|singha=0|starbucks=0|stellaartois=0|texaco=0|tsingtao=0|ups=1|
