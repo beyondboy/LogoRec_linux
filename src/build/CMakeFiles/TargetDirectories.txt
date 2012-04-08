@@ -1,0 +1,3 @@
+/home/beyond_boy/logorec/LogoRec_linux/src/build/CMakeFiles/logorec.dir
+/home/beyond_boy/logorec/LogoRec_linux/src/build/CMakeFiles/logorec_dynamic.dir
+/home/beyond_boy/logorec/LogoRec_linux/src/build/CMakeFiles/logorec_static.dir

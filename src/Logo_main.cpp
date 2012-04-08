@@ -13,11 +13,11 @@ void util_test(std::string basedir)
   std::string confpath = basedir + "conf/conf.txt";
 	hello();
 
-/**/	LogRec::CTriTrain ctr;
+/*	LogRec::CTriTrain ctr;
 	ctr.LoadConf(confpath);
 	ctr.Init();
 	cout << "Init:" << confpath << endl;
-	
+*/
 	LogRec::CTriAngleQuery cqr;
 	cqr.LoadConf(confpath);
 	cqr.Query();

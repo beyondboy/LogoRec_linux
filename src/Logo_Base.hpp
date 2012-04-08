@@ -18,7 +18,7 @@ namespace LogRec
 		: m_alta(1.0), m_sigma(8.0), m_eSimThreshold(0.9), m_binSizeOfTriDir(10.0),
 		  m_binSizeOfOriDir(24.0),m_triMinAngle(15.0), m_eMin(10.0), m_triMaxArea(20000.0),
 		  m_minProportion(1.0/3.0), m_maxProportion(3.0), m_iMaxComNum(50), 
-		  m_iMontCarloDensity(100000), m_minNN(10.0), m_maxNN(30.0), m_maxReTri(8.0)
+		  m_iMontCarloDensity(100000), m_minNN(10.0), m_maxNN(30.0), m_maxReTri(4.0)
 		{
 
 		}

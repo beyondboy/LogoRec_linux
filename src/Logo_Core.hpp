@@ -175,10 +175,10 @@ namespace LogRec
 		//候选点
 		std::vector<LogRec::LogoSLRPoint> m_vCandidatePoint;
 		//统计结果
-		std::map<std::string,int> m_resultCal;
+		std::map<std::string, std::set<long long> > m_resultCal;
 		//
 		std::string m_sQuery;
-
+		
 		//batch query
 		//std::vector<std::pair<std::string,std::string> > m_vQList;
 		std::map<std::string, std::list<string> > m_mQlist;

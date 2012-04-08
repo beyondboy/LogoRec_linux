@@ -472,7 +472,8 @@ namespace LogRec
 									{
 										hB.insert(edgeA.m_edgeSig);// = edgeA.m_edgeSig;
 										EdgeSetB.push_back(edgeB);
-									}																			
+									}
+																			
 								}								
 							}
 						}
@@ -868,6 +869,7 @@ namespace LogRec
 			std::vector<KeyPoint> keypoints;
 			detector->detect( image,keypoints );
 			
+
 			if(keypoints.size() < 300)
 			{
 				delete detector;
@@ -1313,6 +1315,7 @@ namespace LogRec
 			{
 				LogRec::PRINT_LOG_MESSAGE("--THE---%d ROUND [POINTS(%f,%f) SIZE(%d) ORI(%f)]--",
 					i,cvsurf.pt.x,cvsurf.pt.y,cvsurf.size,cvsurf.dir);
+
 				/*LogRec::WRITE_LOG_MESSAGE("TTTT--THE---%d ROUND [POINTS(%f,%f) SIZE(%d) ORI(%f)]--",
 					i,cvsurf.pt.x,cvsurf.pt.y,cvsurf.size,cvsurf.dir);
 				std::cout << "---THE--- " << i << " ROUND" 
@@ -1426,18 +1429,14 @@ namespace LogRec
 					{
 						if ( itrTri->second.find(logoTri.m_signature) != itrTri->second.end())
 						{
-							/*if ( m_resultCal.find(itrTri->first) == m_resultCal.end() )
+							if ( m_resultCal.find(itrTri->first) == m_resultCal.end() )
 							{
-								m_resultCal[itrTri->first].insert(logoTri.m_signature);
+								m_resultCal[itrTri->first] = 1;
 							}
 							else
 							{
-							  if (m_resultCal[itrTri->first].find(logoTri.m_signature) == m_resultCal[itrTri->first].end())
-								{
-								  m_resultCal[itrTri->first].insert(logoTri.m_signature);
-								}
-							}*/
-							m_resultCal[itrTri->first].insert(logoTri.m_signature);
+								m_resultCal[itrTri->first] ++;
+							}
 						}
 					}
 				}
@@ -1454,16 +1453,16 @@ namespace LogRec
 		return std::string(os.str());
 	}
 
-	bool printResult(std::map<std::string,std::set<long long> > &m_resultCal, std::vector<std::string> &m_sModelList, std::string &sClass, std::string &sQ)
+	bool printResult(std::map<std::string,int> &m_resultCal, std::vector<std::string> &m_sModelList, std::string &sClass, std::string &sQ)
 	{
 		std::cout << "The final Statistical results are :" << std::endl;
 		std::string sRes = sClass+":"+sQ+" ";
 		for (std::vector<std::string>::iterator itrR = m_sModelList.begin(); itrR != m_sModelList.end(); itrR++)
 		{
 			std::cout << *itrR << " : " 
-				      << (m_resultCal.find(*itrR) == m_resultCal.end() ? 0 : m_resultCal[*itrR].size()) 
+				      << (m_resultCal.find(*itrR) == m_resultCal.end() ? 0 : m_resultCal[*itrR]) 
 					  << std::endl;
-			sRes += (*itrR+"="+ToString((m_resultCal.find(*itrR) == m_resultCal.end() ? 0 : m_resultCal[*itrR].size())))+"|";
+			sRes += (*itrR+"="+ToString((m_resultCal.find(*itrR) == m_resultCal.end() ? 0 : m_resultCal[*itrR])))+"|";
 		}
 		LogRec::LOG_SET_OPTION(LogRec::LOG_OPTION_INFO);
 		LogRec::WRITE_LOG_MESSAGE("[res] %s",sRes.c_str());
