@@ -1,2 +1,0 @@
-/usr/bin/ar cr liblogorec_static.a  CMakeFiles/logorec_static.dir/Logo_Common.cpp.o CMakeFiles/logorec_static.dir/Logo_Core.cpp.o CMakeFiles/logorec_static.dir/Logo_Logger.cpp.o CMakeFiles/logorec_static.dir/Logo_Utils.cpp.o
-/usr/bin/ranlib liblogorec_static.a
