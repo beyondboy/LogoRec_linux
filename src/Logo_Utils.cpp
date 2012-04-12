@@ -7,7 +7,7 @@ namespace LogRec
 {
 	LogoStatus GetVisualDictOfSIFT(std::string dstVocabFile, int thresh_size, int k, std::string filePath, std::string fileList)
 	{
-	
+		std::cout << "---------START NOW----------" << std::endl;
 		ifstream fin((filePath+fileList).c_str());
 
 		if (!fin)
@@ -33,7 +33,7 @@ namespace LogRec
 
 
 		LogRec::LOG_SET_OPTION(LogRec::LOG_OPTION_INFO);
-
+		std::cout << "-------READ LIST-------" << std::endl;
 		while ( getline(fin,line) )
 		{
 			istringstream filenameExtractor;
@@ -44,14 +44,14 @@ namespace LogRec
 
 			string fileName;
 			filenameExtractor >> fileName;
-			string fullNamePath = path+fileDir+"\\"+fileName;
+			string fullNamePath = path+fileDir+"/"+fileName;
 			//根据路径抽取图片特征点
 
-			cv::Mat image = cv::imread(fullNamePath,CV_LOAD_IMAGE_COLOR);
+			cv::Mat image = cv::imread(fullNamePath,CV_LOAD_IMAGE_GRAYSCALE);//
 			if( !image.data )
 			{
 				LogRec::LOG_LEVEL_WARN;
-				LogRec::PRINT_LOG_MESSAGE("---failed to open fiel!---");				
+				LogRec::PRINT_LOG_MESSAGE("---failed to open file: %s---",fullNamePath.c_str());				
 				continue;
 			}
 
@@ -105,6 +105,8 @@ namespace LogRec
 			//image = NULL;
 		}
 
+		std::cout << "-------CLUSTERING-------" << std::endl;
+		
 		LogRec::LOG_LEVEL_INFO;
 		LogRec::PRINT_LOG_MESSAGE("TOTAL_FEATURES: %d",i_totalF);
 		
