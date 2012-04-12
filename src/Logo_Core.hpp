@@ -6,7 +6,7 @@
 
 namespace LogRec
 {
-
+	//use for test!
 	void hello();
 	struct LogoConf
 	{
@@ -162,19 +162,19 @@ namespace LogRec
 
 	public:
 
-		//±ßË÷Òý
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		std::map<std::string, std::set<long> > m_edgeIndex;
-		//Èý½ÇÐÎË÷Òý
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		std::map<std::string, std::set<long long> > m_triIndex;
-		//Í¼Æ¬ÌØÕ÷µã
+		//Í¼Æ¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		std::vector<LogRec::LogoSLRPoint> m_vPicFeature;
-		//Ëæ»ú²ÉÑùµÄ±ß
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä±ï¿½
 		std::vector<LogRec::LogoSLREdge> m_vRandEdge;
-		//ºòÑ¡±ß
+		//ï¿½ï¿½Ñ¡ï¿½ï¿½
 		std::vector<LogRec::LogoSLREdge> m_vCandidateEdge;
-		//ºòÑ¡µã
+		//ï¿½ï¿½Ñ¡ï¿½ï¿½
 		std::vector<LogRec::LogoSLRPoint> m_vCandidatePoint;
-		//Í³¼Æ½á¹û
+		//Í³ï¿½Æ½ï¿½ï¿½ï¿½
 		std::map<std::string, std::set<long long> > m_resultCal;
 		//
 		std::string m_sQuery;
